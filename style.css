@@ -252,23 +252,23 @@ nav {
 }
 .story1 {
   background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.5)),
-    url(images/images/status-1.png);
+    url(images/meta/status-1.png);
 }
 .story2 {
   background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.5)),
-    url(images/images/status-2.png);
+    url(images/meta/status-2.png);
 }
 .story3 {
   background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.5)),
-    url(images/images/status-3.png);
+    url(images/meta/status-3.png);
 }
 .story4 {
   background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.5)),
-    url(images/images/status-4.png);
+    url(images/meta/status-4.png);
 }
 .story5 {
   background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.5)),
-    url(images/images/status-5.png);
+    url(images/meta/status-6.png);
 }
 .story.story1 img {
   top: unset;
